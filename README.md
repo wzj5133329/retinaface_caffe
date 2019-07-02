@@ -1,4 +1,7 @@
 # retinaface_caffe
+
+官方retinaface(mxnet实现)  :https://github.com/deepinsight/insightface/tree/master/RetinaFace
+
 在使用前修改Makefile文件
 
 
