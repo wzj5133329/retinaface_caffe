@@ -6,8 +6,8 @@ layer {
     shape {
       dim: 1
       dim: 3
-      dim: 1024 
-      dim: 1980
+      dim: 1024     #显存不够 改小一点
+      dim: 1980     #同上
     }
   }
 }
